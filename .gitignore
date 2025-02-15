@@ -1,0 +1,53 @@
+
+# IP folder
+N28HPC+/
+db/
+techfile/
+mem/
+_apr_src1/
+_apr_src2/
+
+# Folder from synthesis
+alib-52/
+files/
+data/
+command.log
+syn.log
+
+# Folder from APR
+cdl/
+cdl
+lib/
+lib
+lef/
+lef
+innovus/
+innovus
+output/
+logs/
+split*/
+timingReports/
+tmp*/
+
+# Files
+*.command
+*.log
+*.cmd*
+*.log*
+*.rpt
+*.lef
+scheduling_*
+*.bin
+*.dc.outbound*
+.timing_file*
+*.swp
+*.gz
+
+*.cap
+*.length
+*.tran
+*.tarpt
+*.fanout
+
+*.cpf
+*.spec
