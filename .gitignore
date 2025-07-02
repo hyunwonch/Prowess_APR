@@ -6,6 +6,10 @@ techfile/
 mem/
 _apr_src1/
 _apr_src2/
+_IP
+
+# Setting Folder
+.vscode/
 
 # Folder from synthesis
 alib-52/
@@ -28,6 +32,11 @@ logs/
 split*/
 timingReports/
 tmp*/
+virtuoso/
+calibre/
+
+gds/
+_SRC/
 
 # Files
 *.command
@@ -42,6 +51,7 @@ scheduling_*
 .timing_file*
 *.swp
 *.gz
+*.vcd
 
 *.cap
 *.length
@@ -51,3 +61,5 @@ scheduling_*
 
 *.cpf
 *.spec
+*.gds
+*.oas
