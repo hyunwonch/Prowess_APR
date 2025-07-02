@@ -32,3 +32,5 @@ This folder includes all the necessary files for the physical design
         - [ ] Need to ask what would be potential danger on the pad
     - [ ] Figure out what/how to use seal ring
     - [ ] Need to get a script for filling
+    - [ ] Need to ask what is the difference between CLK_GEN_CORE_m1_fix & CLK_GEN_CORE_new.lef
+    - [ ] Need to find where is gds for CLK_GEN
